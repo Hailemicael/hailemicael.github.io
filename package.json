@@ -1,0 +1,19 @@
+{
+  "name": "ronaldo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^3.7.0",
+    "browserfy": "^1.0.0",
+    "browserify": "^16.5.2",
+    "emailjs-com": "^2.6.4",
+    "request": "^2.88.2"
+  },
+  "description": ""
+}
